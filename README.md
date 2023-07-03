@@ -31,10 +31,19 @@ WHEN I test API POST, PUT, and DELETE routes in Insomnia Core
 THEN I am able to successfully create, update, and delete data in my database
 Mock-Up
 ```
+
+## Screenplay
+
+https://drive.google.com/file/d/1HeBG8skqOvMiHyySJ1LAt6mjVOwQ_ugR/view
+
+
+## Image
+
+![screenshot](./Screenshot%202023-07-03%20162720.png)
+
 ## Sources
 
 Caleb Crum- Instructor
 Dannika Long
 ChatGPT
-Google
 
